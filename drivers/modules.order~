@@ -1,0 +1,7 @@
+kernel/drivers/char/omap-cir.ko
+kernel/drivers/char/xserver/cir-lin.ko
+kernel/drivers/scsi/scsi_wait_scan.ko
+kernel/drivers/usb/storage/usb-storage.ko
+kernel/drivers/usb/gadget/g_ether.ko
+kernel/drivers/mmc/host/mmc_spi.ko
+kernel/drivers/mmc/host/sdhci-platform.ko
